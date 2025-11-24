@@ -6,7 +6,7 @@
 - Git repository link for frontend code using Lovable: https://github.com/Methila-Meem/article-submitter
 - Frontend URL: https://lovable.dev/projects/0ab99550-5364-4667-af3c-078d3fb893bc
 - Frontend view
-![Frontend view](screenshots/details.png)
+![Frontend view](screenshots/ArticleProcessorFrontend.PNG)
 
 #Backend references
 - Git repository link for backend code using FastAPi: https://github.com/Methila-Meem/Article_Processor_API
@@ -14,6 +14,6 @@
 
 #N8N Workflow 
 - Workflow diagram
-![Workflow diagram](screenshots/main.png)
+![Workflow diagram](screenshots/ArticleProcessorN8N.PNG)
 - Video presentation link: https://drive.google.com/file/d/1dJAcyCKrHsnA8NWFqYSS2WIS7TdbK8bA/view?usp=sharing
 
